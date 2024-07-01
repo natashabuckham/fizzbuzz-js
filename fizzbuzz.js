@@ -2,12 +2,10 @@
 
 // Here, we create our main function.
 function fizzbuzz() {
-    
-    console.log('Hello World');
-
     // Put your code here...
-
-    
+    for (let i = 1; i < 101; i++) {
+        console.log(i);
+    };
 }
 
 // Now we run the main function...
